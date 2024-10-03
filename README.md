@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # HỒ NGỌC TÀI  
 **FULLSTACK DEVELOPER**  
 
@@ -73,4 +73,3 @@ I am a 4th year student at Ho Chi Minh City University of Technology. My major i
 - Participate in Expert-Challenge Season 3  
 - Participate in “Cuộc thi lập trình C trên hệ thống Website”  
 
-=======
