@@ -6,6 +6,8 @@
 🌐 [GitHub](https://github.com/Ho-Ngoc-Tai)  
 📅 25/04/2002  
 
+![Profile Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6zKp2raSzM07r576li3wRg4NWuweJyB9HQ&s)
+
 ---
 
 ## EDUCATIONAL  
